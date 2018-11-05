@@ -1,10 +1,10 @@
 ---
 name: summary-of-article
-about: Summary of article.
+about: 読んだ文献のまとめ
 
 ---
 
-# <タイトル>
+<タイトル>をIssueのTitleに書く。
 ## 文献情報 (著者名, カンファレンス名/journal名, 出版年)
 
 ## ひとこと概要
